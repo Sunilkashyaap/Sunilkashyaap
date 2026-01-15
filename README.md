@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Crime area percentage Detection**
 
-- 🌱 I’m currently learning **MongoDb , PHP**
+- 🌱 I’m currently learning **Artificial Intelligence , Genrative AI**
 
-- 💬 Ask me about **Python , Css , tailwind , js**
+- 💬 Ask me about **Webdev,Java,Python**
 
 - 📫 How to reach me **sunillkashhyap@gmail.com**
 
